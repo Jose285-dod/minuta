@@ -1,4 +1,4 @@
-#"minuta"
+#"PRUEBA"
 # Definir dos números para sumar
 numero1 = (a) 
 numero2 = (b)
